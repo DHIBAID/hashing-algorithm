@@ -15,4 +15,4 @@ String.prototype.hashCode = function() {
 
 let string = "helloworld"
 let hashed = string.unHash()
-console.log(hashed) // 32 bit integer hash
+console.log(hashed) // 32 bit integer hashed
